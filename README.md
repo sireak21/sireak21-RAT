@@ -27,7 +27,7 @@ The purpose of this RAT is to teach members of the security community the basics
 ## Overview:
 ethio RAT Tool] is the *ethio rat* you'll ever need. This tool is an SSH [Secure SHell] RAT that is completely network-oriented, making it virtually fileless. It is capable of remotely connecting to the target computer, remote file uploads and downloads, as well as code execution **all** through network commands and communication.
 
-Its advanced network capabilities make it difficult for standard antivirus and firewalls to detect. The RAT has a multitude of ways it can be installed onto a target PC, including batch file installation and the use of [Hak5](https://hak5.org) gear. Depending on how ethioRAT is installed, you can have formatted as a *from GitHub* or *from VPS* install.
+Its advanced network capabilities make it difficult for standard antivirus and firewalls to detect. The RAT has a multitude of ways it can be installed onto a target PC, including batch file installation and the use of https://dirtyethio.com gear. Depending on how ethioRAT is installed, you can have formatted as a *from GitHub* or *from VPS* install.
 
 *From GitHub* will install ethioRAT from GitHub's raw data, allowing no user configuration. But the **connection can only be local** since there is no VPS to route traffic and forward ports from.
 
